@@ -1,0 +1,14 @@
+.todoui{
+    display: flex;
+    flex-direction: row;
+    row-gap: 5px;
+}
+
+.buttonStyle1{
+    text-decoration: line-through;
+    background-color: green;
+}
+
+.buttonStyle2{
+    text-decoration: none;
+}
